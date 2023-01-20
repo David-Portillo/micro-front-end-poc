@@ -1,1 +1,1 @@
-<template><H1>dashboard</H1></template>
+<template>my dashboard with vue.js</template>
